@@ -1,0 +1,6 @@
+2018-11-29 09:58:23,959 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Blood Splatter" 结果为空
+2018-11-29 09:58:24,676 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Bone Breaking" 结果为空
+2018-11-29 09:58:25,188 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Demon Horse" 结果为空
+2018-11-29 09:58:25,724 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Evil Laughter" 结果为空
+2018-11-29 09:58:26,424 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Ghost Train Station" 结果为空
+2018-11-29 09:58:27,092 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Ghost Wind" 结果为空

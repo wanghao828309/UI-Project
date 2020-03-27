@@ -1,0 +1,15 @@
+2019-11-27 15:57:50,957 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "007_Series" ORDER BY updatetime 结果为空
+2019-11-27 15:57:54,092 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "B&W_Film" ORDER BY updatetime 结果为空
+2019-11-27 15:57:57,918 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Batman" ORDER BY updatetime 结果为空
+2019-11-27 15:58:02,013 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Cool_Film" ORDER BY updatetime 结果为空
+2019-11-27 15:58:05,371 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Dark_Film" ORDER BY updatetime 结果为空
+2019-11-27 15:58:09,766 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Game_of_Thrones" ORDER BY updatetime 结果为空
+2019-11-27 15:58:15,723 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Gravity" ORDER BY updatetime 结果为空
+2019-11-27 15:58:21,943 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Harry_Potter" ORDER BY updatetime 结果为空
+2019-11-27 15:58:26,821 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "House_of_Cards" ORDER BY updatetime 结果为空
+2019-11-27 15:58:30,915 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Mission_Impossible" ORDER BY updatetime 结果为空
+2019-11-27 15:58:35,693 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Reign" ORDER BY updatetime 结果为空
+2019-11-27 15:58:40,157 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Sparta_300" ORDER BY updatetime 结果为空
+2019-11-27 15:58:43,803 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Star_Wars" ORDER BY updatetime 结果为空
+2019-11-27 15:58:48,028 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Walking_Dead" ORDER BY updatetime 结果为空
+2019-11-27 15:58:52,233 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Warm_Film" ORDER BY updatetime 结果为空

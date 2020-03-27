@@ -1,0 +1,4 @@
+2019-09-16 15:45:57,492 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "split_screen_01" ORDER BY updatetime 结果为空
+2019-09-16 15:46:01,112 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "split_screen_02" ORDER BY updatetime 结果为空
+2019-09-16 16:07:26,996 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Islands" ORDER BY updatetime 结果为空
+2019-09-16 16:07:27,736 - reqApi_log - ERROR - SELECT title FROM wx_pack_9_resource WHERE  slug = "Plating_Food" ORDER BY updatetime 结果为空

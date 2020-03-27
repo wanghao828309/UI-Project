@@ -1,0 +1,5 @@
+2018-11-21 15:13:03,960 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Action Hero Anthem" 结果为空
+2018-11-21 15:13:05,272 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Adventure Overture" 结果为空
+2018-11-21 15:13:06,349 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "BR Intro" 结果为空
+2018-11-21 15:14:26,573 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Action Hero Anthem" 结果为空
+2018-11-21 15:15:03,568 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Action Hero Anthem" 结果为空

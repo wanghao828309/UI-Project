@@ -1,0 +1,7 @@
+2018-09-26 17:28:07,992 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Deposit up" 结果为空
+2018-09-26 17:28:08,269 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Diamond zoom in" 结果为空
+2018-09-26 17:28:08,732 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Diamond zoom out" 结果为空
+2018-09-26 17:28:09,769 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "DoorWay" 结果为空
+2018-09-26 17:28:10,375 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Drop bounce" 结果为空
+2018-09-26 17:28:18,982 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Grid zoom in" 结果为空
+2018-09-26 17:28:19,256 - reqApi_log - ERROR - SELECT fr,de,es,it,pt,jp FROM pack9_multi_language WHERE binary en = "Grid zoom out" 结果为空

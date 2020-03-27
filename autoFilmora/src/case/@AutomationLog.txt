@@ -1,0 +1,128 @@
+Can't find H.264 in ComboBoxControl
+Can't find AAC in ComboBoxControl
+Can't find H.264 in ComboBoxControl
+Can't find AAC in ComboBoxControl
+Can't find H.264 in ComboBoxControl
+Can't find AAC in ComboBoxControl
+Can't find 720x480 in ComboBoxControl
+Can't find 30000 kbps in ComboBoxControl
+Can't find 30000 kbps in ComboBoxControl
+EditControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ControlType': 50004, 'Value': 'My Video'}
+ListControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ControlType': 50008}
+ListControl's BoundingRectangle is empty(0,0,0,0). searchPorperty: {'ControlType': 50008}
+Can't find 30000 kbps in ComboBoxControl
+Can't find WMV3 in ComboBoxControl
+Can't find 1280*720 in ComboBoxControl
+Can't find 12 fps in ComboBoxControl
+Can't find 8000 kbps in ComboBoxControl
+Can't find WMA9 in ComboBoxControl
+Can't find 192 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+Can't find  in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+Can't find 4000 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+Can't find 192 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+Can't find 256 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+Can't find 256 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+Can't find 256 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+Can't find 256 kbps in ComboBoxControl
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
